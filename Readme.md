@@ -1,4 +1,4 @@
-# Rust Öğreniyorum
+# Rust Öğreniyorum
 
 Bu repoda, geliştirmeyi hedeflediğim uygulamaları paylaşacağım.
 
