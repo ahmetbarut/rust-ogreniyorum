@@ -6,8 +6,8 @@ Bu repoda, geliştirmeyi hedeflediğim uygulamaları paylaşacağım.
 
 - [x] [Hesap Makinesi](./calculator)
 - [x] [Kelime Sayacı](./word-counter)
-- [ ] Küçük Bir HTTP Sunucusu
-- [ ] Not Defteri
+- [x] [Küçük Bir HTTP Sunucusu](./http-server/)
+- [x] [Not Defteri](./notepad/)
 - [ ] Todo Listesi
 - [ ] CSV Dosya İşleyici
 - [ ] Adam Asmaca
