@@ -8,7 +8,7 @@ Bu repoda, geliştirmeyi hedeflediğim uygulamaları paylaşacağım.
 - [x] [Kelime Sayacı](./word-counter)
 - [x] [Küçük Bir HTTP Sunucusu](./http-server/)
 - [x] [Not Defteri](./notepad/)
-- [ ] Todo Listesi
+- [-] Todo Listesi
 - [ ] CSV Dosya İşleyici
 - [ ] Adam Asmaca
 - [ ] Taş-Kağıt-Makas
